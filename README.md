@@ -9,14 +9,14 @@ To test performance I used :
      Accuracy, AUC
      , Roc Curves
      , Complexity of calculation
-     Confusion Matrix
+      and Confusion Matrix
 
 ### Prerequisites
 
 Python 3 
 , sklearn
 , Pandas
-Matplotlib
+ and Matplotlib
 
 
 
